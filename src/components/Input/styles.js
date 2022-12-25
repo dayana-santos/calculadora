@@ -21,10 +21,11 @@ export const InputContainer = styled.div`
         display: flex;
         flex-direction: column;
         align-items: flex-end;
-        padding: 0 10px;
+        padding: 0 20px;
         font-size: 24px;
         font-family: 'Roboto';
         color: #fff;
+        text-align: right;
     }
 
 `
